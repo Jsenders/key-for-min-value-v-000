@@ -19,3 +19,4 @@ min_value = array[0]
       end
 end
 end
+end
