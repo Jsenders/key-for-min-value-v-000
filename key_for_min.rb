@@ -6,3 +6,4 @@ name_hash = {:blake => 10, :ashley => 50, :adam => 17}
 name_hash.each do |key|
   puts "#{key}"
 end
+end
